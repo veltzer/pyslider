@@ -6,3 +6,4 @@ KEYWORDS = {
     "powerpoint",
     "marp",
 }
+PYPI = true
