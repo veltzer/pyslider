@@ -555,6 +555,10 @@ wheels = [
 name = "pyslider"
 version = "0.0.1"
 source = { editable = "." }
+dependencies = [
+    { name = "pylogconf" },
+    { name = "pytconf" },
+]
 
 [package.dev-dependencies]
 dev = [
@@ -568,6 +572,10 @@ dev = [
 ]
 
 [package.metadata]
+requires-dist = [
+    { name = "pylogconf" },
+    { name = "pytconf" },
+]
 
 [package.metadata.requires-dev]
 dev = [
