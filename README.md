@@ -5,7 +5,7 @@
 
 description: Pyslider is a tool to create pdf slides from markdown
 
-project website: https://veltzer.github.io/pyslider
+project website: <https://veltzer.github.io/pyslider>
 
 author: Mark Veltzer
 
